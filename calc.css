@@ -1,0 +1,13 @@
+button {
+            color: rgb(6, 6, 6) ;
+            border: x3 ;
+        }
+body {
+    background-color: lightblue ;
+}
+    .CalcInput {
+        color:red ;
+    }
+    .GetPercent {
+        color:lightgreen ;
+    }
